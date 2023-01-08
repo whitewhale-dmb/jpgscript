@@ -1,4 +1,4 @@
-# jpegscript.py
+# jpgscript.py
 
 ## About
 This is a simple script for embedding a JavaScript payload within a JPEG file, a.k.a a polyglot JPEG. 
