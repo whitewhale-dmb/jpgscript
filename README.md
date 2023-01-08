@@ -18,7 +18,7 @@ Install requirements:
 
 Generate a polyglot JPEG:
 
-```python3 jpegscript.py --image <base jpeg file> --script <script to embed>```
+```python3 jpgscript.py --image <base jpeg file> --script <script to embed>```
 
 Execution via XSS (charset attribute is important):
 
